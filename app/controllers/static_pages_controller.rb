@@ -6,6 +6,8 @@ class StaticPagesController < ApplicationController
   end
 
   def about
-  	@title = "About | Ruby on Rails Tutorial Sample App"
+  end
+
+  def contact
   end
 end
